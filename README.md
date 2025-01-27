@@ -9,11 +9,11 @@ basharNatheerAli/basharNatheerAli is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Bashar Natheer</h1>
-<h3 align="center">A software engineer, in Taiz university.</h3>
+<h3 align="center">A Software Engineer,studing in Taiz University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/15qaynl4wa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15qaynl4wa/" height="30" width="40" /></a>
+<a href="https://fb.com/[https://www.facebook.com/share/15qaynl4wa/](https://www.facebook.com/share/1AxEKcW1eu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15qaynl4wa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
