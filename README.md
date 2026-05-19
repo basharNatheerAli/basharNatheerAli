@@ -40,4 +40,4 @@ Welcome to my digital space! I am a passionate Software Engineering student at *
 Let's build something amazing together!
 
 - 💬 **Telegram:** [@BasharSE2005](https://t.me/BasharSE2005)
-- 👥 **Facebook:** [Your-Profile-Link-Here]
+- 👥 **Facebook:** [https://www.facebook.com/profile.php?id=100078188296968]
